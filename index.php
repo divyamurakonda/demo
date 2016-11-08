@@ -8,4 +8,5 @@
  
 echo "My first eclipse and git project";
 echo "second line";
+echo "testing jenkins build";
 ?>
