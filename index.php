@@ -7,4 +7,5 @@
  */
  
 echo "My first eclipse and git project";
+echo "second line";
 ?>
